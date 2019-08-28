@@ -31,6 +31,7 @@ Paws.App = (function () {
         'red': {href: '/redshift/home#cluster-list:'},
         'ss3': {href: '/s3/home'},
         'vpc': {href: '/vpc/home'},
+        'vsubnet': {href: '/vpc/home?#subnets:sort=SubnetId'},
         'cft': {href: '/cloudformation/home'},
         'da': {href: '/lambda/home'},
         // Pages
